@@ -1,17 +1,6 @@
 'use strict';
 
 
-/**
- * Created by Peter Sbarski
- * Updated by Mike Chambers
- * Updated by Julian Pittas
- * Last Updated: 27/02/2018
- *
- * Required Env Vars:
- * ELASTIC_TRANSCODER_REGION
- * ELASTIC_TRANSCODER_PIPELINE_ID
- */
-
 
 const AWS = require('aws-sdk');
 
